@@ -1,0 +1,14 @@
+APUNTES JAVASCRIPT:
+
+
+Para visualizar uno de los archivos .js:
+Copia el <script> que te interese visualizar fuera del campo comentado en el 
+index.html, al final del body.
+
+La carpeta "ejercicios-primeros" contiene 8 ejercicios resueltos que tratan los
+primeros temas de los apuntes. Del "01-condicional-if-else" al "05-ventanas".
+
+
+La carpeta "ejercicios-segundos" contiene X ejercicios resueltos que tratan 
+los temas desde el archivo "06-funciones.js" hasta "16-operaciones-con-arrays.js".
+
